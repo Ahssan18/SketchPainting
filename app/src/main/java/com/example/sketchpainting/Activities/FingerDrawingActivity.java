@@ -45,7 +45,7 @@ import androidx.recyclerview.widget.GridLayoutManager;
 import static android.content.pm.ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE;
 
 public class FingerDrawingActivity extends AppCompatActivity implements View.OnClickListener {
-
+/*finger drawn activity*/
     MyCanvas myCanvas;
     private ImageView iv_back, iv_eraser, iv_undo, iv_redo, iv_indicator, iv_delete, iv_share, iv_download;
     private InterstitialAd mInterstitialAd;
